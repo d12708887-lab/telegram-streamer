@@ -1,0 +1,13 @@
+{
+  "name": "telegram-streamer",
+  "version": "1.0.0",
+  "description": "Telegram to HTML5 video streamer",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "big-integer": "^1.6.52",
+    "express": "^4.19.2",
+    "telegram": "^2.26.0"
+  }
+}
